@@ -1,6 +1,6 @@
 # html-resume
 
-# 🧱 Week 1 – CSS Redimido: Semantic HTML Multipage Site
+# 🧱 Week 1 – HTML Redeemed: Semantic HTML Multipage Site
 
 This project was built as part of my structured learning campaign to master front-end development. It represents the completion of Week 1 of my bootcamp, focused on semantic HTML and multi-page structure.
 
